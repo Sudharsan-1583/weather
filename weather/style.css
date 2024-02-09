@@ -5,11 +5,11 @@
 }
 
 body {
-        font-family: 'Roboto', sans-serif; /* Use Roboto font as the primary font */
+        font-family: 'Roboto', sans-serif; 
     
     background-image: url('./8562848_25501.jpg');
-    background-size: cover; /* Set background size to cover the entire container */
-    background-position: center; /* Center the background image */
+    background-size: cover; 
+    background-position: center;
     align-items: center;
     font-family: Arial, sans-serif;
 }
@@ -19,16 +19,16 @@ body {
     width: 600px;
     margin: 100px auto;
     padding: 40px;
-    background-color: rgba(255, 255, 255, 0.8); /* Added background color with opacity */
-    border-radius: 10px; /* Added border radius */
-    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.5); /* Added box shadow */
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.5); 
 }
 
 .inputs {
     padding: 2rem 0;
     text-align: center;
-    background: rgba(224, 190, 190, 0.8); /* Adjusted background color with opacity */
-    border-radius: 5px; /* Added border radius */
+    background: rgba(224, 190, 190, 0.8); 
+    border-radius: 5px; 
 }
 
 .inputs input[type="text"] {
@@ -41,7 +41,7 @@ body {
     border: 2px solid #473939;
     border-radius: 3px;
     margin-right: 4px;
-    color: rgb(0, 0, 0); /* Changed text color */
+    color: rgb(0, 0, 0); 
 }
 
 .inputs input[type="submit"] {
@@ -54,24 +54,24 @@ body {
     margin-top: 20px;
     border: none;
     border-radius: 4px;
-    cursor: pointer; /* Added cursor pointer */
+    cursor: pointer;
 }
 
 .display {
     text-align: center;
     width: 520px;
     color: #16a864;
-    margin-top: 20px; /* Added margin top */
+    margin-top: 20px; 
 }
 
 .wrapper {
     width: 80%;
     margin: 50px auto;
-    background-color: rgba(172, 189, 221, 0.8); /* Adjusted background color with opacity */
-    min-height: 200px; /* Changed height to min-height for flexibility */
-    padding: 20px; /* Added padding */
-    border-radius: 5px; /* Added border radius */
-    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.5); /* Added box shadow */
+    background-color: rgba(172, 189, 221, 0.8); 
+    min-height: 200px;
+    padding: 20px; 
+    border-radius: 5px; 
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.5);
 }
 
 .wrapper h2 {
@@ -79,14 +79,14 @@ body {
     text-align: center;
     background: #0548b5;
     color: white;
-    border-radius: 5px; /* Added border radius */
+    border-radius: 5px; 
 }
 
 .wrapper p {
     margin: 20px 0;
     text-align: left;
     color: #04214c;
-    font-size: 18px; /* Decreased font size for better readability */
+    font-size: 18px; 
 }
 
 .wrapper h2 span {
